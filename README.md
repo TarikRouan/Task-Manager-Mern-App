@@ -1,6 +1,6 @@
 # Task Manager Mern App
 
-### this is a small task manager mern app,  built using NodeJs, Express, MongoDB, React, Redux Toolkit.
+this is a small task manager mern app,  built using NodeJs, Express, MongoDB, React, Redux Toolkit.
 
 ## Features
 
